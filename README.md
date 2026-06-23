@@ -31,4 +31,12 @@ GitHub: https://github.com/khushi-awasthi
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/1189-maximum-number-of-balloons) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3699-number-of-zigzag-arrays-i](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/3699-number-of-zigzag-arrays-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3699-number-of-zigzag-arrays-i](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/3699-number-of-zigzag-arrays-i) |
 <!---LeetCode Topics End-->
