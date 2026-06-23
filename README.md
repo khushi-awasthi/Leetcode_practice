@@ -45,6 +45,7 @@ GitHub: https://github.com/khushi-awasthi
 | [0026-remove-duplicates-from-sorted-array](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0485-max-consecutive-ones) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
 |  |
