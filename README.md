@@ -39,4 +39,8 @@ GitHub: https://github.com/khushi-awasthi
 |  |
 | ------- |
 | [3699-number-of-zigzag-arrays-i](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/3699-number-of-zigzag-arrays-i) |
+## Array
+|  |
+| ------- |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 <!---LeetCode Topics End-->
