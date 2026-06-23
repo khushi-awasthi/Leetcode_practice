@@ -22,6 +22,7 @@ GitHub: https://github.com/khushi-awasthi
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0001-two-sum) |
 | [1189-maximum-number-of-balloons](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/1189-maximum-number-of-balloons) |
 ## String
 |  |
@@ -42,6 +43,7 @@ GitHub: https://github.com/khushi-awasthi
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0189-rotate-array) |
