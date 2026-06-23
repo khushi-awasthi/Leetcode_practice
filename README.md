@@ -23,6 +23,7 @@ GitHub: https://github.com/khushi-awasthi
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/1189-maximum-number-of-balloons) |
 ## String
 |  |
@@ -31,6 +32,7 @@ GitHub: https://github.com/khushi-awasthi
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/1189-maximum-number-of-balloons) |
 ## Dynamic Programming
 |  |
@@ -47,6 +49,7 @@ GitHub: https://github.com/khushi-awasthi
 | [0026-remove-duplicates-from-sorted-array](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0485-max-consecutive-ones) |
@@ -70,4 +73,9 @@ GitHub: https://github.com/khushi-awasthi
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
