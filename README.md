@@ -39,6 +39,7 @@ GitHub: https://github.com/khushi-awasthi
 | ------- |
 | [0053-maximum-subarray](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0053-maximum-subarray) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -67,6 +68,7 @@ GitHub: https://github.com/khushi-awasthi
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0189-rotate-array) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
