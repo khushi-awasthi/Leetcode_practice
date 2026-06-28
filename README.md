@@ -23,6 +23,7 @@ GitHub: https://github.com/khushi-awasthi
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/1189-maximum-number-of-balloons) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -58,6 +59,7 @@ GitHub: https://github.com/khushi-awasthi
 | [0031-next-permutation](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0075-sort-colors) |
+| [0128-longest-consecutive-sequence](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0189-rotate-array) |
@@ -122,4 +124,8 @@ GitHub: https://github.com/khushi-awasthi
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/2149-rearrange-array-elements-by-sign) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
