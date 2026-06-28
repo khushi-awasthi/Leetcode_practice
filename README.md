@@ -63,6 +63,7 @@ GitHub: https://github.com/khushi-awasthi
 | [0283-move-zeroes](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0485-max-consecutive-ones) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -87,6 +88,7 @@ GitHub: https://github.com/khushi-awasthi
 | ------- |
 | [0075-sort-colors](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0169-majority-element) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -108,4 +110,8 @@ GitHub: https://github.com/khushi-awasthi
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+## Greedy
+|  |
+| ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 <!---LeetCode Topics End-->
