@@ -59,6 +59,7 @@ GitHub: https://github.com/khushi-awasthi
 | [0001-two-sum](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0075-sort-colors) |
@@ -87,6 +88,7 @@ GitHub: https://github.com/khushi-awasthi
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0189-rotate-array) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Bit Manipulation
@@ -135,5 +137,6 @@ GitHub: https://github.com/khushi-awasthi
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
