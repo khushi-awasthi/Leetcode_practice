@@ -26,6 +26,7 @@ GitHub: https://github.com/khushi-awasthi
 | [0073-set-matrix-zeroes](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0169-majority-element) |
+| [0560-subarray-sum-equals-k](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0560-subarray-sum-equals-k) |
 | [1189-maximum-number-of-balloons](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/1189-maximum-number-of-balloons) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -50,6 +51,7 @@ GitHub: https://github.com/khushi-awasthi
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0560-subarray-sum-equals-k) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -70,6 +72,7 @@ GitHub: https://github.com/khushi-awasthi
 | [0189-rotate-array](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0560-subarray-sum-equals-k) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
