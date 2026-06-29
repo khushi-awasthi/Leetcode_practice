@@ -26,6 +26,7 @@ GitHub: https://github.com/khushi-awasthi
 | [0073-set-matrix-zeroes](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0560-subarray-sum-equals-k) |
 | [1189-maximum-number-of-balloons](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/1189-maximum-number-of-balloons) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -40,6 +41,7 @@ GitHub: https://github.com/khushi-awasthi
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0229-majority-element-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/1189-maximum-number-of-balloons) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Dynamic Programming
@@ -72,6 +74,7 @@ GitHub: https://github.com/khushi-awasthi
 | [0136-single-number](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0560-subarray-sum-equals-k) |
@@ -106,6 +109,7 @@ GitHub: https://github.com/khushi-awasthi
 | ------- |
 | [0075-sort-colors](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0229-majority-element-ii) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Divide and Conquer
 |  |
