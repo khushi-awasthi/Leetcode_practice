@@ -46,6 +46,7 @@ GitHub: https://github.com/khushi-awasthi
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0118-pascals-triangle) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Prefix Sum
@@ -66,6 +67,7 @@ GitHub: https://github.com/khushi-awasthi
 | [0054-spiral-matrix](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0075-sort-colors) |
+| [0118-pascals-triangle](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0169-majority-element) |
