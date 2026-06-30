@@ -29,6 +29,7 @@ GitHub: https://github.com/khushi-awasthi
 | [0229-majority-element-ii](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0560-subarray-sum-equals-k) |
 | [1189-maximum-number-of-balloons](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -36,6 +37,7 @@ GitHub: https://github.com/khushi-awasthi
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Counting
 |  |
@@ -151,4 +153,8 @@ GitHub: https://github.com/khushi-awasthi
 | [0048-rotate-image](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0073-set-matrix-zeroes) |
+## Sliding Window
+|  |
+| ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
