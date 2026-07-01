@@ -66,6 +66,7 @@ GitHub: https://github.com/khushi-awasthi
 | [0001-two-sum](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0054-spiral-matrix) |
@@ -164,6 +165,7 @@ GitHub: https://github.com/khushi-awasthi
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0704-binary-search) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Breadth-First Search
