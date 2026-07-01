@@ -80,6 +80,7 @@ GitHub: https://github.com/khushi-awasthi
 | [0283-move-zeroes](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0704-binary-search) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -163,6 +164,7 @@ GitHub: https://github.com/khushi-awasthi
 ## Binary Search
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0704-binary-search) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Breadth-First Search
 |  |
