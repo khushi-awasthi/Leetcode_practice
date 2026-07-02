@@ -88,6 +88,7 @@ GitHub: https://github.com/khushi-awasthi
 | [2149-rearrange-array-elements-by-sign](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Two Pointers
@@ -158,6 +159,7 @@ GitHub: https://github.com/khushi-awasthi
 | [0054-spiral-matrix](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/0073-set-matrix-zeroes) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Sliding Window
 |  |
 | ------- |
@@ -172,8 +174,18 @@ GitHub: https://github.com/khushi-awasthi
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Graph Theory
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/khushi-awasthi/Leetcode_practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
